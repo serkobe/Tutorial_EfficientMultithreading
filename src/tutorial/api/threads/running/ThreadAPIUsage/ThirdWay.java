@@ -8,8 +8,8 @@ public class ThirdWay {
 		
 		System.out.println("--- Main thread starts ---");
 		
-		new FourthTask();
-		new FourthTask();
+		new ThirdTask();
+		new ThirdTask();
 		
 		System.out.println("--- Main thread ends ---");
 		
