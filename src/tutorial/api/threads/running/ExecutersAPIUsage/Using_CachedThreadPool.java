@@ -5,7 +5,7 @@ import tutorial.api.threads.running.ExecutersAPIUsage.common.LoopTaskA;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Using_CachedhreadPool {
+public class Using_CachedThreadPool {
 
     public static void main(String[] args) {
 
